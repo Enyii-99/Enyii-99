@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Ochokwu Enyichukwu, I'm a 200 level Pyhsics student at the University of Lagos, Nigeria.
+### Hi there 👋, my name is Ochokwu Enyichukwu, I'm a Pyhsics student at the University of Lagos, Nigeria.
 - 🌱 I’m currently learning Python and Django (the learning never stops)
 - 📫 How to reach me: email -> ochokwuenyichukwu@gamil.com
 - 😄 Pronouns: HIM (I'm HIM for real.)
